@@ -1,0 +1,84 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "neofiber" ; Times: 2
+	Query: "evening bat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 445 download events in this period)
+Total number of records downloaded: 168 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 149
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 4
+	Date: 2015-01-04 ; Times: 6
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 578
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 168
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 35
+Total number of records retrieved from searches: 600
+Number of download events that retrieved data from the resource: 125
+Total number of records downloaded: 2074
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
