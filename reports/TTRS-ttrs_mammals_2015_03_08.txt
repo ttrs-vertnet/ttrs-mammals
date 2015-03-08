@@ -1,0 +1,66 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "deer mouse" ; Times: 1
+	Query: "flying squirrel media:1" ; Times: 2
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "stateprovince:"WV" year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 326 download events in this period)
+Total number of records downloaded: 124 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 112
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 37
+Total number of records retrieved from searches: 593
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 292
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 40
+Total number of records retrieved from searches: 615
+Number of download events that retrieved data from the resource: 131
+Total number of records downloaded: 2198
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
