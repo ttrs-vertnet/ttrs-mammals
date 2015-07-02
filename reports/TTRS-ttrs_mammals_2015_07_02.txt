@@ -1,0 +1,67 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-04 ; Times: 3
+	Date: 2015-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Sciurus media:1" ; Times: 1
+	Query: "catalognumber:881 institutioncode:ttrs" ; Times: 2
+	Query: "catalognumber:881 institutioncode:TTRS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1524 download events in this period)
+Total number of records downloaded: 145 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 135
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 50
+Total number of records retrieved from searches: 625
+Number of download events that retrieved data from the resource: 52
+Total number of records downloaded: 1531
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 53
+Total number of records retrieved from searches: 647
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 3437
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
