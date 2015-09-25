@@ -1,0 +1,81 @@
+Report for Institution Code TTRS, Resource Mammals
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 38
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Logan" stateprovince:"Arkansas" class:Mammalia" ; Times: 1
+	Query: ""myotis" media:1" ; Times: 2
+	Query: "catalognumber:122" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1138 download events in this period)
+Total number of records downloaded: 79 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 67
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "spilogale putorius distance(location,geopoint(35.110304562291745,-93.90314385294914))<423808.6749531791" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5
+Total number of records retrieved from searches: 38
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 79
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5
+Total number of records retrieved from searches: 38
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 79
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
