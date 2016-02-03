@@ -1,0 +1,71 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Geomyidae class:Mammalia stateprovince:&#34;Georgia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 889 download events in this period)
+Total number of records downloaded: 428
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-25 ; Times: 8
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-26 ; Times: 2
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 2
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:velifer genus:Myotis" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale continent:North America AND (NOT california NOT oregon NOT washington NOT idaho NOT nevada NOT mexico NOT &#34;new mexico&#34; NOT &#34;jeff davis&#34; NOT &#34;Van horn&#34; NOT arizona NOT honduras NOT &#34;el salvador&#34; NOT brewster NOT presidio NOT &#34;val verde&#34;)" ; Times: 1
+
+
+End of report.
