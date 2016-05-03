@@ -1,0 +1,75 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus ochrogaster media:1" ; Times: 1
+	Query: "whitetail deer" ; Times: 2
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1312 download events in this period)
+Total number of records downloaded: 321
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Portugal ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 6
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+
+
+End of report.
