@@ -1,0 +1,65 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 587
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-10 ; Times: 5
+	Date: 2018-03-26 ; Times: 8
+	Date: 2018-03-27 ; Times: 7
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "spotted skunk" ; Times: 2
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 2
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 5
+	Query: "specificepithet:floridanus genus:lasiurus mappable:1" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 5
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "specificepithet:intermedius genus:lasiurus mappable:1" ; Times: 4
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 2
+	Query: "specificepithet:intermedius genus:Lasiurus mappable:1" ; Times: 3
+	Query: "genus:Pipistrellus stateprovince:&#34;Florida&#34;" ; Times: 4
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1284 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+
+
+End of report.
