@@ -1,0 +1,61 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 194
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:palustris mappable:1" ; Times: 2
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus month &gt;= 1 month &lt;= 3" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1359 download events in this period)
+Total number of records downloaded: 213
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
