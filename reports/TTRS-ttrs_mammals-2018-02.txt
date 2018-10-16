@@ -1,0 +1,74 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myocastor coypus mappable:1" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Whitetail deer" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1892 download events in this period)
+Total number of records downloaded: 693
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
