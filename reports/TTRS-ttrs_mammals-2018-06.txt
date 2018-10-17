@@ -1,0 +1,53 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "armadillo hasmedia:1" ; Times: 8
+	Query: "nutria" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "rattus rattus hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1169 download events in this period)
+Total number of records downloaded: 167
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Bobcat" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "coyote" ; Times: 1
+
+
+End of report.
