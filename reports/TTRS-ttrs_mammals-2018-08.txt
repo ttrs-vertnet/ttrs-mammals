@@ -1,0 +1,45 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;295071" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(31.293937179208516,-76.90297344792259))&lt;467941.1417995581" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.3730985540974,-79.01234844792259))&lt;295070.55051211215" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1416 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;100000" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+
+
+End of report.
