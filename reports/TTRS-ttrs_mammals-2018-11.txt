@@ -1,0 +1,120 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:vespertilionidae continent:North America institutioncode:TTRS" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 4
+	Query: "Flying squirrel" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 2
+	Query: "big brown bat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1719 download events in this period)
+Total number of records downloaded: 659
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 32
+	Country: Mexico ; Times: 37
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 3
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-15 ; Times: 16
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 9
+	Date: 2018-11-14 ; Times: 8
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 10
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "genus:Lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "lutra canadensis" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (neovision OR vision OR mink)" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+
+
+End of report.
