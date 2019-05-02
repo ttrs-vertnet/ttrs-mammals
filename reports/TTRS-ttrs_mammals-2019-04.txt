@@ -1,0 +1,61 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "catalognumber:493 institutioncode:TTRS" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:TTRS" ; Times: 1
+	Query: "genus:Spilogale institutioncode:TTRS" ; Times: 1
+	Query: "genus:Mephitis institutioncode:TTRS" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1263 download events in this period)
+Total number of records downloaded: 294
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+
+
+End of report.
