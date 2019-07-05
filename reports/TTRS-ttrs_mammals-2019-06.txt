@@ -1,0 +1,71 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 149
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 5
+	Date: 2019-06-10 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "genus:Didelphis specificepithet:marsupialis" ; Times: 2
+	Query: "genus:Myotis specificepithet:austroriparius" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:seminolus" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 1
+	Query: "genus:Lutra specificepithet:canadensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1182 download events in this period)
+Total number of records downloaded: 199
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 6
+	Date: 2019-06-04 ; Times: 9
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "bobcat" ; Times: 3
+	Query: "black bear" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "mouse deer" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "river otter" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "raccoon continent:north america" ; Times: 1
+
+
+End of report.
