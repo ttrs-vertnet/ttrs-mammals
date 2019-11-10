@@ -1,0 +1,53 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 96
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-24 ; Times: 4
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-03 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Dasypus stateprovince:&#34;Georgia&#34;" ; Times: 5
+	Query: "Spermophilus citellus" ; Times: 1
+	Query: "pine vole" ; Times: 3
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "genus:Glaucomys stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "gray fox" ; Times: 2
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1073 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "prairie vole" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+
+
+End of report.
