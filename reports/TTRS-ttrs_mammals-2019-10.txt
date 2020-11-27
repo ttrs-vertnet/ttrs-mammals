@@ -1,0 +1,61 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Microtus ochrogaster 2016" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "white footed mouse" ; Times: 2
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Microtus ochrogaster 1973" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "Geomys bursarius 1973" ; Times: 1
+	Query: "Reithrodontomys megalotis 1973" ; Times: 1
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "gray fox" ; Times: 3
+	Query: "vntype:specimen genus:didelphis hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1308 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+
+
+End of report.
