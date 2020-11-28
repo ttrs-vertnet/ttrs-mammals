@@ -1,0 +1,46 @@
+Report for Institution Code TTRS, Resource ttrs_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "swamp rabbit" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 756 download events in this period)
+Total number of records downloaded: 226
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Peromyscus gossypinus" ; Times: 1
+
+
+End of report.
